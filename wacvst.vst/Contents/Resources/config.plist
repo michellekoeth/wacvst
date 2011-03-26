@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>uniqueID</key>
+	<integer>129678</integer>
+	<key>plugin-name</key>
+	<string>glitch</string>
+	<key>wine-path</key>
+	<string>/usr/local/bin/wine</string>
+</dict>
+</plist>
