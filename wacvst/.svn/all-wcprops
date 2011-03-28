@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 26
+/svnroot/wacvst/!svn/ver/9
+END
+rdwrops.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svnroot/wacvst/!svn/ver/1/rdwrops.cpp
+END
+remotepluginserver.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/wacvst/!svn/ver/9/remotepluginserver.cpp
+END
+rdwrops.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svnroot/wacvst/!svn/ver/1/rdwrops.h
+END
+remotepluginserver.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/wacvst/!svn/ver/9/remotepluginserver.h
+END
+remotepluginclient.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/wacvst/!svn/ver/9/remotepluginclient.cpp
+END
+wacvst-Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svnroot/wacvst/!svn/ver/1/wacvst-Info.plist
+END
+README-wacvst.rtf
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svnroot/wacvst/!svn/ver/1/README-wacvst.rtf
+END
+wacvst.h
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svnroot/wacvst/!svn/ver/1/wacvst.h
+END
+wacvst_Prefix.pch
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svnroot/wacvst/!svn/ver/1/wacvst_Prefix.pch
+END
+wacvstPriv.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svnroot/wacvst/!svn/ver/1/wacvstPriv.h
+END
+remotepluginclient.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/wacvst/!svn/ver/9/remotepluginclient.h
+END
+config.plist
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svnroot/wacvst/!svn/ver/7/config.plist
+END
+remoteplugin.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svnroot/wacvst/!svn/ver/8/remoteplugin.h
+END
+paths.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svnroot/wacvst/!svn/ver/1/paths.cpp
+END
+dssi-vst-server.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/wacvst/!svn/ver/9/dssi-vst-server.cpp
+END
+wacvstProj.xcconfig
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/wacvst/!svn/ver/1/wacvstProj.xcconfig
+END
+paths.h
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svnroot/wacvst/!svn/ver/1/paths.h
+END
+README-dssi-vst
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svnroot/wacvst/!svn/ver/1/README-dssi-vst
+END
+remotevstclient.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/wacvst/!svn/ver/9/remotevstclient.cpp
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svnroot/wacvst/!svn/ver/1/COPYING
+END
+wacvst.cp
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svnroot/wacvst/!svn/ver/9/wacvst.cp
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svnroot/wacvst/!svn/ver/3/Makefile
+END
+remotevstclient.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svnroot/wacvst/!svn/ver/7/remotevstclient.h
+END
+wacvstTarget.xcconfig
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/wacvst/!svn/ver/1/wacvstTarget.xcconfig
+END
