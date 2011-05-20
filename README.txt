@@ -1,3 +1,5 @@
+[The wacvst.vst folder has a compiled version, and the wacvst folder is the source code]
+
 Disable potentially conflicting versions of wine:
 
 If one has previously installed some version of wine, try temporarily disabling it by;
@@ -40,6 +42,7 @@ Edit wacvst.vst/Contents/Resources/config.plist.
   Change the wine-path entry to point to where wine is installed. If one installed
   wine in the default location, this entry does not need edited.
 
+
 One may also need to copy support dlls to wine's windows\system32 directory.
 
 If you want to wrap multiple vsts:
@@ -48,7 +51,6 @@ If you want to wrap multiple vsts:
 
   Change the uniqeID entry in Contents/Resources/config.plist. Insure that each individual vs. has a different uniqueID.
 
-[The wacvst.vst folder has a compiled version, and the wacvst folder is the source code]
 
 Install wacvst:
 
