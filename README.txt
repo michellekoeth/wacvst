@@ -48,6 +48,8 @@ If you want to wrap multiple vsts:
 
   Change the uniqeID entry in Contents/Resources/config.plist. Insure that each individual vs. has a different uniqueID.
 
+[The wacvst.vst folder has a compiled version, and the wacvst folder is the source code]
+
 Install wacvst:
 
 Move the configured wacvst  to ~/Library/Audio/Plug-Ins/VST/ or
